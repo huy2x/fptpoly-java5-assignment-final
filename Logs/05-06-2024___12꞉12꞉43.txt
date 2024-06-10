@@ -1,0 +1,6 @@
+[12:12:43.936]	Authentication - Can not get cookie information of client !!!
+[12:12:44.911]	Authentication - Can not get cookie information of client !!!
+[12:12:49.272]	SignInPOST - Try to sign in with username: 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[12:12:49.283]	SignInPOST - Sign in successfully !
+[12:12:52.033]	CourseGET - View Course KHDA002 by 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[12:12:54.758]	CourseGET - View Course KHGIT001 by 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc

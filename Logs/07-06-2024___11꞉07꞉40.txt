@@ -1,0 +1,18 @@
+[11:07:40.922]	Authentication - Can not get cookie information of client !!!
+[11:07:42.139]	Authentication - Can not get cookie information of client !!!
+[11:08:15.438]	Authentication - Can not get cookie information of client !!!
+[11:08:28.871]	SignInPOST - Try to sign in with username: 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[11:08:28.882]	SignInPOST - Sign in successfully !
+[11:08:31.710]	EnrolledGET - Get 0 courses enrolled of 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[11:08:32.929]	CertificatesGET - Get 0 certificates of 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[11:08:37.054]	CourseGET - View Course KHDA002 by 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[11:08:42.268]	CourseGET - View Course KHFE001 by 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[11:08:46.318]	CourseJOIN - Username 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc join course KHFE001
+[11:08:46.329]	MaterialGET - View material 1 in course KHFE001
+[11:08:51.104]	MaterialGET - View material 2 in course KHFE001
+[11:08:53.355]	ExamGET - Exam Course KHFE001 by 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[11:09:17.244]	ExamPOST - Username 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc submit exam of course KHFE001 with 30.0 mark
+[11:09:17.258]	ExamGET - Exam Course KHFE001 by 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[11:09:26.123]	EnrolledGET - Get 1 courses enrolled of 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[11:09:29.665]	CertificatesGET - Get 1 certificates of 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[11:09:31.089]	ExamGET - Exam Course KHFE001 by 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc

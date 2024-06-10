@@ -1,0 +1,151 @@
+@charset "UTF-8";
+/*
+	By Tien Sy | TTS
+*/
+body {
+	font-size: .875rem;
+}
+
+.feather {
+	width: 16px;
+	height: 16px;
+}
+
+/*
+   * Sidebar
+   */
+.sidebar {
+	position: fixed;
+	top: 0;
+	/* rtl:raw:
+    right: 0;
+    */
+	bottom: 0;
+	/* rtl:remove */
+	left: 0;
+	z-index: 100;
+	/* Behind the navbar */
+	padding: 48px 0 0;
+	/* Height of navbar */
+	box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+}
+
+@media ( max-width : 767.98px) {
+	.sidebar {
+		top: 5rem;
+	}
+}
+
+.sidebar-sticky {
+	height: calc(100vh - 48px);
+	overflow-x: hidden;
+	overflow-y: auto;
+	/* Scrollable contents if viewport is shorter than content. */
+}
+
+.sidebar .nav-link {
+	font-weight: 500;
+	color: var(--bs-body-color);
+}
+
+.sidebar .nav-link.active {
+	color: #2470dc;
+}
+
+/* -----CARD HIỂN THỊ KHÓA HỌC ------------*/
+.box-KH {
+	border-radius: 22px !important;
+}
+
+.card-KH:hover {
+	transition: 0.7s;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+		rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px
+		-2px 6px 0px inset;
+}
+
+/*-----------TAG INPUT TOÀN TRANG ADMIN ---------*/
+input, select, textarea {
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3)
+		0px 1px 3px -1px;
+}
+
+label {
+	font-weight: bold;
+}
+
+/*thẻ a trang khóa học*/
+a{
+text-decoration: none;
+cursor: pointer;	
+}
+
+
+
+
+
+/* CSS cho màn hình loading */
+#loadingOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.loading-spinner {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  position: relative;
+  border: 4px solid rgba(255, 255, 255, 0.2);
+  animation: spin 1.5s linear infinite;
+}
+
+.loading-spinner:before,
+.loading-spinner:after {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+}
+
+.loading-spinner:before {
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
+  border: 4px solid transparent;
+  border-top-color: #fff;
+  animation: spin 1.5s linear infinite;
+}
+
+.loading-spinner:after {
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+  border: 4px solid transparent;
+  border-top-color: #fff;
+  animation: spin-reverse 1.5s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes spin-reverse {
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+
+
+

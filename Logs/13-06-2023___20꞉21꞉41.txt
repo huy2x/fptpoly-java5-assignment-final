@@ -1,0 +1,9 @@
+[20:21:41.033]	SignInPOST - Try to sign in with username: f0f0fd6447a06752677e916f12525ab3ae9f0480fd741c22b5871e48fe124483
+[20:21:41.071]	SignInPOST - Sign in with Admin role successfully !
+[20:22:03.158]	ALParam - Save file successfully as Absolute Path: F:\KI6_SUMMER_2023\JAVA_5\LAB\DAS_Courses\DAS_Courses_Source\src\main\webapp\Image\UsersFiles\DUY00179.JPG
+[20:26:12.489]	ALParam - Save file successfully as Absolute Path: F:\KI6_SUMMER_2023\JAVA_5\LAB\DAS_Courses\DAS_Courses_Source\src\main\webapp\File\UserExcel\KH924929435535.xlsx
+[20:26:12.489]	SaveExcelData - Save Excel file successfully at: F:\KI6_SUMMER_2023\JAVA_5\LAB\DAS_Courses\DAS_Courses_Source\src\main\webapp\File\UserExcel\KH924929435535.xlsx
+[20:26:13.302]	SaveExcelData - Save data successfully
+[20:26:42.496]	ALParam - Save file successfully as Absolute Path: F:\KI6_SUMMER_2023\JAVA_5\LAB\DAS_Courses\DAS_Courses_Source\src\main\webapp\File\UserExcel\KH924929435535.xlsx
+[20:26:42.497]	SaveExcelData - Save Excel file successfully at: F:\KI6_SUMMER_2023\JAVA_5\LAB\DAS_Courses\DAS_Courses_Source\src\main\webapp\File\UserExcel\KH924929435535.xlsx
+[20:26:42.575]	SaveExcelData - Save data successfully

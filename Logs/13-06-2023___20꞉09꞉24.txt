@@ -1,0 +1,9 @@
+[20:09:24.048]	Authentication - Can not get cookie information of client !!!
+[20:09:26.664]	Authentication - Can not get cookie information of client !!!
+[20:09:46.917]	SignInPOST - Try to sign in with username: 13ef04f726b3d0e682efdaa96590812fa8a2b7fd4b63d587644443714bc27049
+[20:09:46.960]	SignInPOST - Sign in successfully !
+[20:10:27.173]	SignInPOST - Try to sign in with username: f0f0fd6447a06752677e916f12525ab3ae9f0480fd741c22b5871e48fe124483
+[20:10:27.186]	SignInPOST - Can not sign in !!!
+[20:10:36.264]	SignOutREQ - Sign Out successfully.
+[20:10:47.425]	SignInPOST - Try to sign in with username: f0f0fd6447a06752677e916f12525ab3ae9f0480fd741c22b5871e48fe124483
+[20:10:47.438]	SignInPOST - Can not sign in !!!

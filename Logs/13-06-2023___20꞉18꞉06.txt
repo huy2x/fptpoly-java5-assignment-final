@@ -1,0 +1,6 @@
+[20:18:06.316]	SignInPOST - Try to sign in with username: f0f0fd6447a06752677e916f12525ab3ae9f0480fd741c22b5871e48fe124483
+[20:18:06.359]	SignInPOST - Sign in with Admin role successfully !
+[20:18:06.815]	SignInPOST - Try to sign in with username: f0f0fd6447a06752677e916f12525ab3ae9f0480fd741c22b5871e48fe124483
+[20:18:06.839]	SignInPOST - Sign in with Admin role successfully !
+[20:18:28.498]	ALParam - Save file successfully as Absolute Path: F:\KI6_SUMMER_2023\JAVA_5\LAB\DAS_Courses\DAS_Courses_Source\src\main\webapp\Image\UsersFiles\DUY00180.JPG
+[20:19:21.417]	ALParam - Save file successfully as Absolute Path: F:\KI6_SUMMER_2023\JAVA_5\LAB\DAS_Courses\DAS_Courses_Source\src\main\webapp\Image\UsersFiles\z4193576336557_704096324e54702ad38fa21084919ab6.jpg

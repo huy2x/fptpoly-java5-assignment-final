@@ -1,0 +1,18 @@
+[00:29:30.594]	SignInPOST - Try to sign in with username: fed35e828c7a2fa25bcf78dc18fd5f791e38391ef05cb81f6fbe4e057c7272e6
+[00:29:30.641]	SignInPOST - Can not sign in !!!
+[00:29:52.810]	SignInPOST - Try to sign in with username: fed35e828c7a2fa25bcf78dc18fd5f791e38391ef05cb81f6fbe4e057c7272e6
+[00:29:52.814]	SignInPOST - Can not sign in !!!
+[00:30:34.303]	SignInPOST - Try to sign in with username: cb85b2a7d353166e6ac7217b2f14e3b08cc653095e0cc26c61ac1ea728eedcc8
+[00:30:34.309]	SignInPOST - Can not sign in !!!
+[00:32:08.017]	SignUpPOST - Try to sign up with username: 442ab9653c056be89be77bd7e5543ec6615fa28bd78955ed97c08ff6f21b58a8
+[00:32:08.034]	ALParam - Save file successfully as Absolute Path: D:\Java5_Tai_Lieu\DAS_Courses\DAS_Courses_Source\src\main\webapp\Image\UsersAvatar\442ab9653c056be89be77bd7e5543ec6615fa28bd78955ed97c08ff6f21b58a8.png
+[00:32:08.102]	SignUpPOST - Sign up successfully !
+[00:32:21.190]	SignInPOST - Try to sign in with username: 442ab9653c056be89be77bd7e5543ec6615fa28bd78955ed97c08ff6f21b58a8
+[00:32:21.206]	SignInPOST - Sign in successfully !
+[00:32:34.742]	CourseGET - View Course KHBE001 by 442ab9653c056be89be77bd7e5543ec6615fa28bd78955ed97c08ff6f21b58a8
+[00:32:42.023]	CourseJOIN - Username 442ab9653c056be89be77bd7e5543ec6615fa28bd78955ed97c08ff6f21b58a8 join course KHBE001
+[00:32:42.047]	MaterialGET - View material 3 in course KHBE001
+[00:32:58.831]	EnrolledGET - Get 1 courses enrolled of 442ab9653c056be89be77bd7e5543ec6615fa28bd78955ed97c08ff6f21b58a8
+[00:33:02.316]	CertificatesGET - Get 0 certificates of 442ab9653c056be89be77bd7e5543ec6615fa28bd78955ed97c08ff6f21b58a8
+[00:33:45.940]	EnrolledGET - Get 1 courses enrolled of 442ab9653c056be89be77bd7e5543ec6615fa28bd78955ed97c08ff6f21b58a8
+[00:33:48.404]	CertificatesGET - Get 0 certificates of 442ab9653c056be89be77bd7e5543ec6615fa28bd78955ed97c08ff6f21b58a8

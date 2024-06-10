@@ -1,0 +1,22 @@
+[09:12:18.512]	Authentication - Can not get cookie information of client !!!
+[09:12:20.827]	Authentication - Can not get cookie information of client !!!
+[09:12:29.709]	Authentication - Can not get cookie information of client !!!
+[09:12:35.497]	Authentication - Can not get cookie information of client !!!
+[09:13:02.825]	SignUpPOST - Try to sign up with username: b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d
+[09:13:02.845]	ALParam - Save file successfully as Absolute Path: F:\KI6_SUMMER_2023\JAVA_5\LAB\ASM_FINAL\DAS_Courses\DAS_Courses_Source\src\main\webapp\Image\UsersAvatar\b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d.png
+[09:13:02.936]	SignUpPOST - Sign up successfully !
+[09:13:12.000]	CourseGET - View Course KHFE001 by b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d
+[09:13:19.192]	CourseJOIN - Username b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d join course KHFE001
+[09:13:19.220]	MaterialGET - View material 1 in course KHFE001
+[09:13:22.694]	EnrolledGET - Get 1 courses enrolled of b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d
+[09:13:28.203]	CourseGET - View Course KHFE001 by b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d
+[09:13:29.652]	CourseJOIN - Username b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d view course KHFE001
+[09:13:29.670]	MaterialGET - View material 1 in course KHFE001
+[09:13:31.822]	MaterialGET - View material 2 in course KHFE001
+[09:13:32.923]	ExamGET - Exam Course KHFE001 by b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d
+[09:14:10.574]	ExamPOST - Username b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d submit exam of course KHFE001 with 30.0 mark
+[09:14:10.595]	ExamGET - Exam Course KHFE001 by b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d
+[09:14:14.616]	CertificatesGET - Get 1 certificates of b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d
+[09:14:19.125]	ExamGET - Exam Course KHFE001 by b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d
+[09:16:26.367]	SignInPOST - Try to sign in with username: b62c2a0c92d0542d374b7140b65365fdd3124ee8ea09c02efea917c877ad145d
+[09:16:26.381]	SignInPOST - Sign in with Admin role successfully !

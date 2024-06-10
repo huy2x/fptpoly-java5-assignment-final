@@ -1,0 +1,3 @@
+[12:08:52.811]	Authentication - Can not get cookie information of client !!!
+[12:09:10.556]	SignInPOST - Try to sign in with username: 69bd4ac2f37acf311583dd68e941e5c714e82168fc39c2c45daf0da99dc598fc
+[12:09:10.568]	SignInPOST - Sign in successfully !
